@@ -9,5 +9,5 @@
 
 == Semana 1
 
-=== Argumento1
+=== Argumento
 
