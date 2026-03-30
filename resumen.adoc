@@ -5,7 +5,7 @@
 :stem: 
 :stylesheet: daro-dark.css
 
-= Probabilidad
+= Probabilidad prueba
 
 == Semana 1
 
